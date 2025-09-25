@@ -11,8 +11,8 @@ PHP & MySQL (for data handling)
 JavaScript (for interactivity)
 
 📂 Features
-🐾 Homepage with services overview
-📸 Gallery of dogs and sitters
-📝 Blog section with pet care tips
-📅 Booking form with validation
+🐾 Homepage with services overview<br>
+📸 Gallery of dogs and sitters<br>
+📝 Blog section with pet care tips<br>
+📅 Booking form with validation<br>
 📱 Mobile-friendly design
