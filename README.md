@@ -1,5 +1,5 @@
 # Tail-Waggers
-#Dog-sitting website with gallery, blog, and booking form built using PHP and Bootstrap.<br>
+<strong>Dog-sitting website with gallery, blog, and booking form built using PHP and Bootstrap.<br><strong>
 This project simulates a small business website with a professional design, responsive layout, and user-friendly features.
 
 🛠️ Technologies Used<br>
